@@ -6,5 +6,5 @@ I've been working on acronym-soup; this GitHub is for recording information I fi
 |---------|---------------------|
 |![English](https://img.shields.io/badge/English-native-brightgreen)|![Java](https://img.shields.io/badge/java-good-brightgreen)
 |![Chinese](https://img.shields.io/badge/Chinese-intermediate-orange)|![Javascript](https://img.shields.io/badge/javascript-good-brightgreen)
-|![Spanish](https://img.shields.io/badge/Spanish-intermediate-orange)|![C# .NET](https://img.shields.io/badge/C#-OKish-orange)
+|![Spanish](https://img.shields.io/badge/Spanish-intermediate-orange)|![C%23 .NET](https://img.shields.io/badge/C%23-OKish-orange)
 |![Japanese](https://img.shields.io/badge/Japanese-basic-red)|![Python](https://img.shields.io/badge/Python-noob-red)
