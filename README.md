@@ -1,1 +1,1 @@
-![Bird with Cherry Blossoms](img/bird.jpg)
+![Bird with Cherry Blossoms](https://github.com/elliottback/elliottback/blob/master/img/bird.jpg)
